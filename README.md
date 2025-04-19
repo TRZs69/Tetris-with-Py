@@ -1,6 +1,6 @@
 # Tetris-with-Py
 
-Tetris game with Python, pygame.
+Tetris game with Python, pygame.  
 Inspired by StanislavPetrovV's Tetris 
 
 ## What’s New
