@@ -1,5 +1,5 @@
 # Tetris-with-Py
-Tetris game with Python.
+Tetris game with Python, pygame.
 Inspired by StanislavPetrovV's Tetris 
 
 Added sfx,
